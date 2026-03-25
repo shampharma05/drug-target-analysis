@@ -1,0 +1,11 @@
+Drug_Name,Target_Protein
+Aspirin,COX1
+Aspirin,COX2
+Ibuprofen,COX1
+Ibuprofen,COX2
+Paracetamol,COX3
+Metformin,AMPK
+Metformin,Complex I
+Atorvastatin,HMGCR
+Atorvastatin,LDLR
+Caffeine,Adenosine receptor
